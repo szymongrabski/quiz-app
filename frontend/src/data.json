@@ -1,0 +1,172 @@
+{
+    "quizes": [{
+        "category": "General Knowledge",
+        "category_id": 0,
+        "questions": [
+          {
+            "question": "What is the capital of France?",
+            "correct_answer": "Paris",
+            "incorrect_answers": ["London", "Berlin", "Rome"]
+          },
+          {
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "correct_answer": "William Shakespeare",
+            "incorrect_answers": ["Charles Dickens", "Jane Austen", "Mark Twain"]
+          },
+          {
+            "question": "What is the largest planet in our solar system?",
+            "correct_answer": "Jupiter",
+            "incorrect_answers": ["Saturn", "Mars", "Venus"]
+          },
+          {
+            "question": "What is the chemical symbol for water?",
+            "correct_answer": "H2O",
+            "incorrect_answers": ["CO2", "NaCl", "O2"]
+          },
+          {
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "correct_answer": "Japan",
+            "incorrect_answers": ["China", "India", "South Korea"]
+          },
+          {
+            "question": "Who painted the Mona Lisa?",
+            "correct_answer": "Leonardo da Vinci",
+            "incorrect_answers": ["Vincent van Gogh", "Pablo Picasso", "Michelangelo"]
+          },
+          {
+            "question": "What is the currency of Japan?",
+            "correct_answer": "Yen",
+            "incorrect_answers": ["Dollar", "Euro", "Pound"]
+          },
+          {
+            "question": "What is the chemical symbol for gold?",
+            "correct_answer": "Au",
+            "incorrect_answers": ["Ag", "Pt", "Fe"]
+          },
+          {
+            "question": "Who developed the theory of relativity?",
+            "correct_answer": "Albert Einstein",
+            "incorrect_answers": ["Isaac Newton", "Galileo Galilei", "Stephen Hawking"]
+          },
+          {
+            "question": "Which planet is known as the Red Planet?",
+            "correct_answer": "Mars",
+            "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
+          }
+        ]
+    },
+    {
+        "category": "Computer Science",
+        "category_id": 1,
+        "questions": [
+          {
+            "question": "What does HTML stand for?",
+            "correct_answer": "Hypertext Markup Language",
+            "incorrect_answers": ["Hyperlink and Text Markup Language", "Home Tool Markup Language", "Hyper Text Manipulation Language"]
+          },
+          {
+            "question": "What is the most popular programming language in 2021?",
+            "correct_answer": "JavaScript",
+            "incorrect_answers": ["Python", "Java", "C++"]
+          },
+          {
+            "question": "What is the process of finding and fixing bugs in software called?",
+            "correct_answer": "Debugging",
+            "incorrect_answers": ["Compiling", "Testing", "Deploying"]
+          },
+          {
+            "question": "What is the capital city of Silicon Valley?",
+            "correct_answer": "San Jose",
+            "incorrect_answers": ["San Francisco", "Mountain View", "Palo Alto"]
+          },
+          {
+            "question": "Who is known as the father of modern computer science?",
+            "correct_answer": "Alan Turing",
+            "incorrect_answers": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee"]
+          },
+          {
+            "question": "What does CSS stand for?",
+            "correct_answer": "Cascading Style Sheets",
+            "incorrect_answers": ["Computer Style Sheets", "Creative Style Sheets", "Cascading Sheet Styles"]
+          },
+          {
+            "question": "Which company developed the Python programming language?",
+            "correct_answer": "Python Software Foundation",
+            "incorrect_answers": ["Microsoft", "Google", "Facebook"]
+          },
+          {
+            "question": "What is the main purpose of a firewall?",
+            "correct_answer": "To protect a network from unauthorized access",
+            "incorrect_answers": ["To increase internet speed", "To prevent computer viruses", "To enhance website security"]
+          },
+          {
+            "question": "What does CPU stand for?",
+            "correct_answer": "Central Processing Unit",
+            "incorrect_answers": ["Computer Power Unit", "Central Power Unit", "Computer Processing Unit"]
+          },
+          {
+            "question": "What is the binary equivalent of the decimal number 10?",
+            "correct_answer": "1010",
+            "incorrect_answers": ["1000", "101", "110"]
+          }
+        ]
+      },
+      {
+        "category": "Biology",
+        "category_id": 2,
+        "questions": [
+          {
+            "question": "What is the powerhouse of the cell?",
+            "correct_answer": "Mitochondria",
+            "incorrect_answers": ["Nucleus", "Ribosome", "Endoplasmic Reticulum"]
+          },
+          {
+            "question": "Which gas is primarily responsible for global warming?",
+            "correct_answer": "Carbon dioxide",
+            "incorrect_answers": ["Methane", "Ozone", "Nitrous oxide"]
+          },
+          {
+            "question": "What is the largest organ in the human body?",
+            "correct_answer": "Skin",
+            "incorrect_answers": ["Liver", "Brain", "Lungs"]
+          },
+          {
+            "question": "What is the study of living organisms called?",
+            "correct_answer": "Biology",
+            "incorrect_answers": ["Chemistry", "Physics", "Geology"]
+          },
+          {
+            "question": "What is the process by which plants make their food?",
+            "correct_answer": "Photosynthesis",
+            "incorrect_answers": ["Respiration", "Fermentation", "Transpiration"]
+          },
+          {
+            "question": "Which blood type is known as the universal donor?",
+            "correct_answer": "O negative",
+            "incorrect_answers": ["A positive", "B positive", "AB negative"]
+          },
+          {
+            "question": "What is the chemical formula for water?",
+            "correct_answer": "H2O",
+            "incorrect_answers": ["CO2", "O2", "HCl"]
+          },
+          {
+            "question": "Which part of the human body is affected by Parkinson's disease?",
+            "correct_answer": "Brain",
+            "incorrect_answers": ["Heart", "Kidneys", "Lungs"]
+          },
+          {
+            "question": "What is the process by which plants absorb water from the soil?",
+            "correct_answer": "Osmosis",
+            "incorrect_answers": ["Diffusion", "Evaporation", "Transpiration"]
+          },
+          {
+            "question": "What is the largest bone in the human body?",
+            "correct_answer": "Femur",
+            "incorrect_answers": ["Tibia", "Humerus", "Fibula"]
+          }
+        ]
+      }      
+    ]
+  }
+  

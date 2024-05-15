@@ -1,0 +1,38 @@
+# Virtual Environment
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+data/
+*.pickle
+*.p
+*.py[cod]
+*$py.class
+
+# Local development settings
+instance/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+*.swp
+
+# Dependency directories
+lib/
+libs/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Misc
+*.log
+*.pot
+*.pyc
+*.swp
+*.swo
+*.out
